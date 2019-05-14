@@ -21,7 +21,7 @@ class CreatePasswordResetsTable extends Migration
     }
 
     /**
-     * Reverse the migrations.
+     * Reverse the migrations. eskere
      *
      * @return void
      */
