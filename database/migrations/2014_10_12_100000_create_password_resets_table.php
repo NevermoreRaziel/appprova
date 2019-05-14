@@ -19,7 +19,7 @@ class CreatePasswordResetsTable extends Migration
             $table->timestamp('created_at')->nullable();
         });
     }
-                                    /**Alessia was here. Sta il temporale e mi sto cacando sotto */
+                                    /**Alessia was here. Sta il temporale e mi sto cacando sottoo */
     /**
      * Reverse the migrations. eskere
      *
