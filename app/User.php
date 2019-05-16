@@ -12,6 +12,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that are mass assignable.
+     * joseph guarda qui
      *
      * @var array
      */
